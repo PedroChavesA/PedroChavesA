@@ -1,13 +1,13 @@
 # Olá, me chamo Pedro Henrique! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-🔭 Atualemnte Faço parte do time de Planejamento Logístico. Responsável pela análise de dados para otimização e adaptação de processos, expansões e suporte na tomada de decisões estratégicas. responsável por estudos e desenvolvimento de projetos logístico, criação de budget, análise de KPI's garantido a precisão e eficiência das operações logísticas. Colaboração com diversas equipes para implementação de melhorias contínuas.
+🔭 Atualemnte Faço parte do time de Planejamento Logístico. Responsável pela análise de dados da logística para otimização, adaptação de processos, expansões e suporte na tomada de decisões estratégicas. responsável por estudos e desenvolvimento de projetos logístico, criação de budget, análise de KPI's garantido a precisão e eficiência das operações logísticas. Colaboração com diversas equipes para implementação de melhorias contínuas.
 
-💻 Estou me profissionalizando em análise de dados e criação de sistemas, apaixonado por desvendar insights a partir de dados!, tenho expertise em diversas ferramentas, incluindo as da Microsoft (Power BI, Excel, Word, Power Point).
+💻 Estou me especializando em análise de dados de big datas e criação de sistemas. Sou apaixonado por desvendar insights a partir de dados!, tenho expertise em diversas ferramentas, incluindo as da Microsoft (Power BI, Excel, Word, Power Point).
 
 📚 Estou a procura de opotunidades na área Tech;
 
-📫 Você pode falar comigo pelo Instagram , Linkedin ou E-mail.
+📫 Você pode falar comigo pelo Instagram, Linkedin, E-mail ou Whatsapp.
 
 ## Estou aprendendo 
 
