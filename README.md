@@ -1,4 +1,3 @@
-# Olá, me chamo Pedro Henrique! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 🔭 Atualemnte Faço parte do time de Planejamento Logístico. Responsável pela análise de dados da logística para otimização, adaptação de processos, expansões e suporte na tomada de decisões estratégicas. responsável por estudos e desenvolvimento de projetos logístico, criação de budget, análise de KPI's garantido a precisão e eficiência das operações logísticas. Colaboração com diversas equipes para implementação de melhorias contínuas.
