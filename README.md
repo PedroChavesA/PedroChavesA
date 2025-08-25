@@ -19,10 +19,6 @@ Meu objetivo é aplicar minha visão analítica e minha paixão por resolver pro
 
 ### 💻 Tecnologias e Ferramentas
 
-**Já utilizo no meu dia a dia:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" width="40" height="40"/>
-
 **Estou aprofundando meus conhecimentos em:**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
